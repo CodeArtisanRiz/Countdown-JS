@@ -34,7 +34,7 @@ h2 {
 
 @media only screen and (max-width: 768px) {
   h2 {
-    font-size: 2.5rem;
+    font-size: 1.5rem;
   }
   .day, .hour, .minute, .second {
     font-size: 2rem;
