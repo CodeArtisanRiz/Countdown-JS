@@ -6,4 +6,8 @@ Simple countdown page in Js-ES6
 
 SVG - https://undraw.co/
 
+# Demo
+
+https://xtremist96.github.io/Countdown-JS/
+
 ![Screenshot](./assets/img/prev.png)
