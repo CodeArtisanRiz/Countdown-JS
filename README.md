@@ -1,4 +1,9 @@
-# Countdown
+# Countdown page for launch
 
-Countdown page for launch
-![Screenshot](./assets/img/preview.png)
+Simple countdown page in Js-ES6
+
+# Credits
+
+SVG - https://undraw.co/
+
+![Screenshot](./assets/img/prev.png)
